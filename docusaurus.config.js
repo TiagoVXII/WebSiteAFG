@@ -67,7 +67,7 @@ const config = {
         title: 'Website do AFG',
         logo: {
           alt: 'My Site Logo',
-          src: 'favicon-32x32.png',
+          src: 'img/favicon-32x32.png',
         },
         items: [
           {
