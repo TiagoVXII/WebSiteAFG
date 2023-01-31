@@ -132,7 +132,7 @@ const config = {
             ],
           },
         ],
-        copyright: `Copyright © ${new Date().getFullYear()} Equipa de Developers Afeganistão, feito com Docusaurus, host pelo o CloudFare..`,
+        copyright: `Copyright © ${new Date().getFullYear()} Equipa de Developers Afeganistão, feito com Docusaurus. Servidores pelo o CloudFare.`,
       },
       prism: {
         theme: lightCodeTheme,
