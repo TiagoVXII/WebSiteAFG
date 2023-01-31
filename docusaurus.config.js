@@ -9,6 +9,21 @@ const config = {
   title: 'Website AFG',
   tagline: 'Bem Vindo',
   favicon: 'img/favicon.ico',
+  
+  module.exports = {
+  // ...
+  presets: [
+    '@docusaurus/preset-classic',
+    {
+      docs: {
+        routeBasePath: '/', // Serve the docs at the site's root
+        /* other docs plugin options */
+      },
+      blog: false, // Optional: disable the blog plugin
+      // ...
+    },
+  ],
+};
 
   // Set the production url of your site here
   url: 'https://websiteafg.pages.dev/',
