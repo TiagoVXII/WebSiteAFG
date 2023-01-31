@@ -66,6 +66,20 @@ const config = {
           editUrl:
             'https://github.com/TiagoVXII/websiteafg',
         },
+        
+        module.exports = {
+        // ...
+    '@docusaurus/preset-classic',
+    {
+      docs: {
+        routeBasePath: '/', // Serve the docs at the site's root
+        /* other docs plugin options */
+      },
+      blog: false, // Optional: disable the blog plugin
+      // ...
+    },
+  ],
+};
         theme: {
           customCss: require.resolve('./src/css/custom.css'),
         },
