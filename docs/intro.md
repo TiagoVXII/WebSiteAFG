@@ -1,5 +1,5 @@
 ---
-/intro/
+slug: /
 ---
 
 # Introdução ao website.
