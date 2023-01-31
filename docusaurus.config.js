@@ -10,7 +10,7 @@ const config = {
   tagline: 'Bem Vindo',
   favicon: 'img/favicon.ico',
   
-  module.exports = {
+  moduleexports = {
   // ...
   presets: [
     '@docusaurus/preset-classic',
