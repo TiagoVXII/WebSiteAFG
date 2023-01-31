@@ -1,5 +1,4 @@
 ---
-Teste
 slug: /
 ---
 # Introdução ao website.
