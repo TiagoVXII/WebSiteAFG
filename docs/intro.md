@@ -1,6 +1,4 @@
----
 slug: /
----
 
 # Introdução ao website.
 
