@@ -83,7 +83,7 @@ const config = {
           },
           {
             type: 'doc',
-            docID: 'Créditos/Intro',
+            docID: 'creditos/intro',
             position: 'left',
             label: 'Créditos',
           },
