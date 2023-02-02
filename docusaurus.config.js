@@ -81,6 +81,12 @@ const config = {
             position: 'left',
             label: 'Documentos',
           },
+          {
+            type: 'doc',
+            docID: 'Créditos/Intro',
+            position: 'left',
+            label: 'Créditos',
+          },
           {to: '/blog', label: 'Blog', position: 'left'},
           {
             href: 'https://github.com/TiagoVXII/websiteafg',
