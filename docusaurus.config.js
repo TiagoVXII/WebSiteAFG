@@ -77,13 +77,13 @@ const config = {
         items: [
           {
             type: 'doc',
-            docID: 'site/intro',
+            docId: 'site/intro',
             position: 'left',
             label: 'Documentos',
           },
           {
             type: 'doc',
-            docID: 'creditos/intro',
+            docId: 'creditos/intro',
             position: 'left',
             label: 'Créditos',
           },
