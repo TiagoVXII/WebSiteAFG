@@ -45,14 +45,14 @@ const config = {
           // Please change this to your repo.
           // Remove this to remove the "edit this page" links.
           editUrl:
-           'https://github.com/TiagoVXII/websiteafg',
+           'https://github.com/TiagoVXII/websiteafg/tree/main',
         },
         blog: {
           showReadingTime: false,
           // Please change this to your repo.
           // Remove this to remove the "edit this page" links.
           editUrl:
-            'https://github.com/TiagoVXII/websiteafg',
+            'https://github.com/TiagoVXII/websiteafg/tree/main',
         },
         
        
