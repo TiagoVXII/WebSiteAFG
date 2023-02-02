@@ -77,15 +77,9 @@ const config = {
         items: [
           {
             type: 'doc',
-            docId: 'Website/intro',
+            docId: 'Intro',
             position: 'left',
-            label: 'Website com Documentos',
-          },
-          {
-            type: 'doc',
-            docId: 'creditos/intro',
-            position: 'left',
-            label: 'Créditos',
+            label: 'Documentos',
           },
           {
             href: 'https://github.com/TiagoVXII/websiteafg',
