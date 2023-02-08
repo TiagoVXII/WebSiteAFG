@@ -133,7 +133,7 @@ const config = {
         ],
       logo: {
       alt: 'Gamerrafamv Studios',
-      src: '/img/gamer.png',
+      src: '/img/matriz.png',
       href: 'https://discord.gg/5aqZzygJmn',
       },
         copyright: `Copyright © ${new Date().getFullYear()} Kandahar Afeganistão, feito com Docusaurus. Servidores e Publicação pelo o CloudFlare.`,
