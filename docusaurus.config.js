@@ -7,7 +7,7 @@ const darkCodeTheme = require('prism-react-renderer/themes/dracula');
 /** @type {import('@docusaurus/types').Config} */
 const config = {
   title: 'Flas4hPT Test Website',
-  tagline: 'Bem Vindo',
+  tagline: 'Welcome!',
   favicon: 'img/favicon.ico',
   
   
@@ -45,7 +45,7 @@ const config = {
           // Please change this to your repo.
           // Remove this to remove the "edit this page" links.
           editUrl:
-           'https://github.com/TiagoVXII/websiteafg/tree/main',
+           'https://github.com/TiagoVXII/flas4hptestzone/tree/main',
            showLastUpdateAuthor: true,
            showLastUpdateTime: true,
         },
@@ -125,7 +125,7 @@ const config = {
             label: 'Test Zone',
           },
           {
-            href: 'https://github.com/TiagoVXII/websiteafg',
+            href: 'https://github.com/TiagoVXII/flas4hptestzone',
             label: 'GitHub',
             position: 'right',
           },
@@ -169,16 +169,11 @@ const config = {
               },
               {
                 label: 'GitHub',
-                href: 'https://github.com/TiagoVXII/websiteafg',
+                href: 'https://github.com/TiagoVXII/flas4hptestzone',
               },
             ],
           },
         ],
-      logo: {
-      alt: 'Gamerrafamv Studios',
-      src: '/img/matriz.png',
-      href: 'https://discord.gg/5aqZzygJmn',
-      },
       
         copyright: `Copyright © ${new Date().getFullYear()} Kandahar Afeganistão, feito com Docusaurus. Servidores e Publicação pelo o CloudFlare.`,
       },
