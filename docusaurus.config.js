@@ -47,6 +47,7 @@ const config = {
           editUrl:
            'https://github.com/TiagoVXII/websiteafg/tree/main',
            showLastUpdateAuthor: true,
+           showLastUpdateTime: true,
         },
         blog: {
           showReadingTime: false,
