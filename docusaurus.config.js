@@ -175,7 +175,7 @@ const config = {
           },
         ],
       
-        copyright: `Copyright © ${new Date().getFullYear()} Kandahar Afeganistão, feito com Docusaurus. Servidores e Publicação pelo o CloudFlare.`,
+        copyright: `Copyright © ${new Date().getFullYear()} Flas4hPT Test Zone, Inc. Built with Docusaurus.`,
       },
       prism: {
         theme: lightCodeTheme,
