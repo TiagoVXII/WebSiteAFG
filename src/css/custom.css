@@ -29,12 +29,4 @@
   --docusaurus-highlighted-code-line-bg: rgba(0, 0, 0, 0.3);
 }
 
-<div class="avatar">
-  <img
-    class="avatar__photo avatar__photo--sm"
-    src="https://avatars3.githubusercontent.com/u/13352?s=400&v=4" />
-  <div class="avatar__intro">
-    <div class="avatar__name">Christoph Pojer</div>
-  </div>
-</div>
 
