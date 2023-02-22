@@ -101,8 +101,8 @@ const config = {
         id: 'warning',
         content:
           'This website is used for Flas4hPT tests. It will be completely removed from Afeganistão Website hands in ROBLOX. ',
-        backgroundColor: '#fafbfc',
-        textColor: '#091E42',
+        backgroundColor: '#0047AB',
+        textColor: '#FFFFFF',
         isCloseable: false,
       },
 
