@@ -6,7 +6,7 @@ const darkCodeTheme = require('prism-react-renderer/themes/dracula');
 
 /** @type {import('@docusaurus/types').Config} */
 const config = {
-  title: 'Website AFG',
+  title: 'Flas4hPT Test Website',
   tagline: 'Bem Vindo',
   favicon: 'img/favicon.ico',
   
@@ -105,9 +105,13 @@ const config = {
         textColor: '#FFFFFF',
         isCloseable: false,
       },
-
+      colorMode: {
+        defaultMode: 'dark',
+        disableSwitch: true,
+        respectPrefersColorScheme: false,
+      },
       navbar: {
-        title: 'Website do AFG',
+        title: 'Flas4hPT Test Website',
         logo: {
           alt: 'My Site Logo',
           src: 'img/favicon-32x32.png',
@@ -118,7 +122,7 @@ const config = {
             type: 'doc',
             docId: 'Intro',
             position: 'left',
-            label: 'Documentos',
+            label: 'Test Zone',
           },
           {
             href: 'https://github.com/TiagoVXII/websiteafg',
@@ -134,7 +138,7 @@ const config = {
             title: 'Docs',
             items: [
               {
-                label: 'Documentos',
+                label: 'Test Zone',
                 to: '/',
               },
             ],
@@ -160,7 +164,7 @@ const config = {
             title: 'More',
             items: [
               {
-                label: 'Documentos',
+                label: 'Test Zone',
                 to: '/',
               },
               {
