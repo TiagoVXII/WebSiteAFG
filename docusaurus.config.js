@@ -73,9 +73,9 @@ const config = {
         appId: 'OPKIB1U20Z',
   
         // Public API key: it is safe to commit it
-        apiKey: 'faf9c8b25e4d2b47059c438920162612',
+        apiKey: '264dcbb64ce402c946875e5eb0a1b5c2',
   
-        indexName: 'Flas4hPT Tests',
+        indexName: 'webafg',
   
         // Optional: see doc section below
         contextualSearch: true,
